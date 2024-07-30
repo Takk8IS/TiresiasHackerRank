@@ -1,0 +1,46 @@
+{
+    "name": "tiresiashackerrank",
+    "version": "1.0.0",
+    "description": "TiresiasHackerRank is a powerful Chrome extension that provides users with the knowledge to pass HackerRank certification tests.",
+    "type": "module",
+    "main": "background.js",
+    "keywords": [
+        "certification",
+        "test",
+        "hackerrank",
+        "ai",
+        "automation",
+        "chromium",
+        "scraper",
+        "scrapping",
+        "tiresias",
+        "tiresiashackerrank",
+        "davcavalcante",
+        "david c cavalcante",
+        "fjallstoppur",
+        "takk innovate studio",
+        "takk8is"
+    ],
+    "author": {
+        "name": "David C Cavalcante (Fjallstoppur) <fjallstoppur@proton.me>",
+        "organization": "Takk Innovate Studio"
+    },
+    "license": "CC-BY-4.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Takk8IS/TiresiasHackerRank.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Takk8IS/TiresiasHackerRank/issues"
+    },
+    "homepage": "https://github.com/Takk8IS/TiresiasHackerRank#readme",
+    "engines": {
+        "node": ">=14.0.0"
+    },
+    "dependencies": {
+        "prettier": "^3.3.3",
+        "progress": "^2.0.3",
+        "prompts": "^2.4.2",
+        "puppeteer": "^22.14.0"
+    }
+}
